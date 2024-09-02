@@ -6,7 +6,7 @@ function SearchPage() {
   return (
     <div className='searchPage'>
       <div className='searchPage__info'>
-         <p>62 stays . 26 august to 30 august . 2 guest</p>
+         <p>62 stays . 26 august to 30 august . 2 guests</p>
          <h1>Stays nearby</h1>
          <button type="text">
           Cancellation Flexibility</button>
